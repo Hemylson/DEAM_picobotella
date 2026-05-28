@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">equipoOnce</string>
+    <string name="cd_editar">Editar reto</string>
+    <string name="cd_eliminar">Eliminar reto</string>
+    <string name="hint_descripcion_reto">Descripción del reto</string>
+    <string name="cd_retos">Agregar retos</string>
 </resources>
