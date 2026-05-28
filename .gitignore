@@ -13,7 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-
-# Scripts locales con credenciales
-jira_update.py
-jira_issues.json
